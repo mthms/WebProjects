@@ -1,0 +1,7 @@
+This is a PHP and bootstrap project. It was developed for any college in the middle east area in order to transfer all of the paper work
+into an electronic and automatically managed processes.
+
+Download link:
+https://drive.google.com/uc?id=0B3Gid0ItyL5Cb21TWExaMW5lOXM&export=download
+
+For furthur deployment and testing purposes, you can search on how to deploy PHP contents on the local server or contact me.
